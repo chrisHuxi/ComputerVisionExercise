@@ -2,10 +2,13 @@
 exercise of CV course in TUD
 
 ## week1 : nonlinear filter
-### including:
+### including :   
   * median filter (with opencv; with my implement)
   * min filter(naive; with PriorityQueue)
-  * bilateral filter(with opencv; with my implement)
+  * bilateral filter(with opencv; with my implement)
+  
+  
+[source code click here](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week1_nonlinear_filter/nonlinear_filter.py)
 
 
 We compare different implement of those filter, and test their time. The result as following:
