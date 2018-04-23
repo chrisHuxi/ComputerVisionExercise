@@ -9,6 +9,8 @@ exercise of CV course in TUD
 
 
 We compare different implement of those filter, and test their time. The result as following:
+
+
 ![](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week1_nonlinear_filter/result.PNG)
 
 
