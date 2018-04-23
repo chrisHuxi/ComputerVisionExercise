@@ -5,7 +5,7 @@ exercise of CV course in TUD
 ### including :   
   * median filter (with opencv; with my implement)
   * min filter(naive; with PriorityQueue)
-  * bilateral filter(with opencv; with my implement)
+  * bilateral filter(with opencv; with my implement)
   
   
 [source code click here](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week1_nonlinear_filter/nonlinear_filter.py)
