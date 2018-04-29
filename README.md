@@ -6,10 +6,11 @@ exercise of CV course in TUD
   * median filter (with opencv; with my implement)
   * min filter(naive; with PriorityQueue)
   * bilateral filter(with opencv; with my implement)
+  * addtional work : [guid filter](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week1_nonlinear_filter/addtional_guidFilter.py)
   
-  
-[source code click here](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week1_nonlinear_filter/nonlinear_filter.py)
+ [main source code click here](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week1_nonlinear_filter/nonlinear_filter.py)
 
+  
 
 We compare different implement of those filter, and test their time. The result as following:
 
@@ -24,4 +25,4 @@ We compare different implement of those filter, and test their time. The result 
     small, sorting method is the better choice.
   * my implemet of min filter with PriorityQueue is much slower then naive. Any idea about it?
   * my implemet of bilateral filter is a little bit faster then opencv, i also don't konw why.
-   
+   
