@@ -71,6 +71,6 @@ for y in uppers:
 for y in lowers:
     cv2.line(new_image, (0,y), (W, y), (0,0,255), 1)   
     
-plt.subplot(121), plt.imshow(gray, 'gray'), plt.title('Original Fourier')  
-plt.subplot(122), plt.imshow(new_image, 'gray'), plt.title('Fourier Fourier')  
+plt.subplot(121), plt.imshow(gray, 'gray'), plt.title('Original')  
+plt.subplot(122), plt.imshow(new_image, 'gray'), plt.title('Result')  
 plt.show()
