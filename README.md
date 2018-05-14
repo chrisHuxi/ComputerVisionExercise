@@ -1,7 +1,40 @@
 # Computer Vision Exercise
 exercise of CV course in TUD
 
-## week1 : nonlinear filter
+
+## week 3-4 : fourier transform
+
+### including :   
+  * [exercise description](http://cvl.inf.tu-dresden.de/HTML/teaching/courses/cv2/ss18/Ex/2/CV2_Ex2_Fourier.pdf)
+  * [P1.py](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week3_fourier_transform/P1.py)
+  * [P2.py](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week3_fourier_transform/P2.py)
+  * [P3.py](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week3_fourier_transform/P3.py)
+  * `TODO : P4.py`
+### The result as following:
+  * P1
+  
+  
+  ![](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week3_fourier_transform/result/P1_result.PNG)
+
+
+  * P2
+ 
+  ![](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week3_fourier_transform/result/figure_P2_result.png)
+  
+  
+  * P3
+  
+  
+  ![](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week3_fourier_transform/result/figure_P3_result.png)
+  
+
+
+## week 1-2 : nonlinear filter
+
+### edit:
+  * I took a mistake in original code(bilateral filter part) : I actually ran the opencv function when I wanted to test my function. So the time of calculation belongs to opencv, rather then mine. Thanks a lot for suggestion of professor Heidrich.
+  
+  
 ### including :   
   * median filter (with opencv; with my implement)
   * min filter(naive; with PriorityQueue)
