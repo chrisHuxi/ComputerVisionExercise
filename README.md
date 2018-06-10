@@ -1,6 +1,23 @@
 # Computer Vision Exercise
 exercise of CV course in TUD
 
+## week 5-6 : seam carving
+
+
+### including :   
+  * [my implement](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week5_seam_carving/P1_my.py)
+  * [skt_implement](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week5_seam_carving/seam_carving_skt.py)
+### The result as following:
+  * my implement
+  
+  ![](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week5_seam_carving/my_seam_carving_result.jpg)
+
+
+  * skt implement
+ 
+  ![](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week5_seam_carving/skt_seam_carving_result.jpg)
+  
+  
 
 ## week 3-4 : fourier transform
 
