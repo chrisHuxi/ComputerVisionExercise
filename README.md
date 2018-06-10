@@ -5,8 +5,8 @@ exercise of CV course in TUD
 
 
 ### including :   
-  * [my implement](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week5_seam_carving/P1_my.py)
-  * [opencv_implement](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week5_seam_carving/seam_carving_skt.py)
+  * [my implemention](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week5_seam_carving/P1_my.py)
+  * [opencv implemention](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week5_seam_carving/seam_carving_skt.py)
 ### The result as following : reduce 50 pixel in horizontal direction
   * my implemention
   
