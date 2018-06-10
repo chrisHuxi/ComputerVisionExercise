@@ -3,7 +3,7 @@ import cv2
 from sklearn.preprocessing import scale
 import matplotlib.pyplot as plt
 
-'''I look up this energy-map-calculation algorithm from other anothur, because my implemention seems dosen't work ( for more details see readme document in github)'''
+'''I look up this energy-map-calculation algorithm from other anothur, because my implemention seems dosen't work'''
 #=======================================================================================================#
 # return difference of pixel with neighbors
 def simpleEnergy(x0, x1, y0, y1):
