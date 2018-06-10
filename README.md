@@ -6,14 +6,14 @@ exercise of CV course in TUD
 
 ### including :   
   * [my implement](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week5_seam_carving/P1_my.py)
-  * [skt_implement](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week5_seam_carving/seam_carving_skt.py)
+  * [opencv_implement](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week5_seam_carving/seam_carving_skt.py)
 ### The result as following:
-  * my implement
+  * my implemention
   
   ![](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week5_seam_carving/my_seam_carving_result.jpg)
 
 
-  * skt implement
+  * opencv implemention
  
   ![](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week5_seam_carving/skt_seam_carving_result.jpg)
   
