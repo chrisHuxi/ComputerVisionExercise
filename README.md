@@ -1,6 +1,26 @@
 # Computer Vision Exercise
 exercise of CV course in TUD
 
+
+## week 7-9 : HDR
+
+
+### including :   
+  * [HDR_convert.py](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week7_HDR/HDR_convert.py)
+  * [opencv implemention](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week7_HDR/solution/hdr_opencv.cpp)
+### The result as following : reduce 50 pixel in horizontal direction
+  * inversed camera response function: (my implementation used Mitsunagaand Nayar Technique)
+  
+  ![](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week7_HDR/response_function_reverse.png)
+
+
+  * my result: (I don't know which part got a problem, but I guess it happens during the calculating inversed camera response function. because before I visualize the result of Radiance Map, there are also many black and white dot noise.)
+ 
+  ![](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week7_HDR/result.jpg)
+  
+  
+  
+  
 ## week 5-6 : seam carving
 
 
