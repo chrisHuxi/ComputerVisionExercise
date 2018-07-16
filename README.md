@@ -2,6 +2,24 @@
 exercise of CV course in TUD
 
 
+## week 10_12 : Neural Network
+
+
+### including :   
+  * [P1.py](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week9_CNN/P1.py)
+  * [P1_edited.py](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week9_CNN/P1_edited.py)
+  
+### The result as following : 
+  * using W of shape[2,2], and discribe this problem as a classification problem, i.e. using softmax_cross_entropy as loss function,( PS: how to draw a line : y = W * x + b with W of shape[2,2], I still don't know. with [reference](http://learningtensorflow.com/classifying/ ), I got a result as following, but can't explain why there are somewhere are not linear.)
+  
+  ![](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week9_CNN/P1_result.png)
+
+
+  * using W of shape[2,1], using mean square as loss function
+ 
+  ![](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week9_CNN/P1_result2.png)
+
+
 ## week 7-9 : HDR
 
 
