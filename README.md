@@ -26,7 +26,7 @@ exercise of CV course in TUD
 ### including :   
   * [HDR_convert.py](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week7_HDR/HDR_convert.py)
   * [opencv implemention](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week7_HDR/solution/hdr_opencv.cpp)
-### The result as following : reduce 50 pixel in horizontal direction
+### The result as following :
   * inversed camera response function: (my implementation used Mitsunagaand Nayar Technique)
   
   ![](https://github.com/chrisHuxi/ComputerVisionExercise/blob/master/week7_HDR/response_function_reverse.png)
